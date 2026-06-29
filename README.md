@@ -21,6 +21,7 @@
 - Bilibili [@柚子柚子l](https://space.bilibili.com/1377882998)
 - Leetcode [@Youzi-2333](https://leetcode.cn/u/elegant-6atestqn/)
 - QQ Group `871834797`
+- OpenPGP Public Key `C4140A31C971FA093FCA123861C516BB886395D9`
 
 祝远方的你一切顺利！<br>*Wish you all the best!*
 
